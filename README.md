@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://github.com/blah-hck"><img src="https://raw.githubusercontent.com/oxstussz-eng/oxstussz-eng/main/saywazup1337.svg" alt="Hey, I'm BlahPrsk!" /></a></h2>
+<h2 align="center"><a href="https://github.com/blah-hck"><img src="[https://raw.githubusercontent.com/oxstussz-eng/oxstussz-eng/main/saywazup1337.svg](https://avatars.githubusercontent.com/u/292270290?s=400&u=2fafc0e1e123e09745e63810db98dfb3e8f12ada&v=4)" alt="Hey, I'm BlahPrsk!" /></a></h2>
 
 ####  Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@OxStussz?theme=asoul" height="100" align="right"></a>
